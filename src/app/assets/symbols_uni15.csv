@@ -1,0 +1,623 @@
+fru_id, fru, category, handshape, thumb, index, 
+1D800 𝠀 Hand-Fist Index  
+1D801 𝠁 Hand-Circle Index  
+1D802 𝠂 Hand-Cup Index  
+1D803 𝠃 Hand-Oval Index  
+1D804 𝠄 Hand-Hinge Index  
+1D805 𝠅 Hand-Angle Index  
+1D806 𝠆 Hand-Fist Index Bent  
+1D807 𝠇 Hand-Circle Index Bent  
+1D808 𝠈 Hand-Fist Thumb Under Index Bent  
+1D809 𝠉 Hand-Fist Index Raised Knuckle  
+1D80A 𝠊 Hand-Fist Index Cupped  
+1D80B 𝠋 Hand-Fist Index Hinged  
+1D80C 𝠌 Hand-Fist Index Hinged Low  
+1D80D 𝠍 Hand-Circle Index Hinge
+1D80E 𝠎 Hand-Fist Index Middle  
+1D80F 𝠏 Hand-Circle Index Middle  
+1D810 𝠐 Hand-Fist Index Middle Bent  
+1D811 𝠑 Hand-Fist Index Middle Raised Knuckles  
+1D812 𝠒 Hand-Fist Index Middle Hinged  
+1D813 𝠓 Hand-Fist Index Up Middle Hinged  
+1D814 𝠔 Hand-Fist Index Hinged Middle Up  
+1D815 𝠕 Hand-Fist Index Middle Conjoined  
+1D816 𝠖 Hand-Fist Index Middle Conjoined Index Bent  
+1D817 𝠗 Hand-Fist Index Middle Conjoined Middle Bent  
+1D818 𝠘 Hand-Fist Index Middle Conjoined Cupped  
+1D819 𝠙 Hand-Fist Index Middle Conjoined Hinged  
+1D81A 𝠚 Hand-Fist Index Middle Crossed  
+1D81B 𝠛 Hand-Circle Index Middle Crossed  
+1D81C 𝠜 Hand-Fist Middle Bent Over Index  
+1D81D 𝠝 Hand-Fist Index Bent Over Middle 
+1D81E 𝠞 Hand-Fist Index Middle Thumb  
+1D81F 𝠟 Hand-Circle Index Middle Thumb  
+1D820 𝠠 Hand-Fist Index Middle Straight Thumb Bent  
+1D821 𝠡 Hand-Fist Index Middle Bent Thumb Straight  
+1D822 𝠢 Hand-Fist Index Middle Thumb Bent  
+1D823 𝠣 Hand-Fist Index Middle Hinged Spread Thumb Side  
+1D824 𝠤 Hand-Fist Index Up Middle Hinged Thumb Side  
+1D825 𝠥 Hand-Fist Index Up Middle Hinged Thumb Conjoined  
+1D826 𝠦 Hand-Fist Index Hinged Middle Up Thumb Side  
+1D827 𝠧 Hand-Fist Index Middle Up Spread Thumb Forward  
+1D828 𝠨 Hand-Fist Index Middle Thumb Cupped  
+1D829 𝠩 Hand-Fist Index Middle Thumb Circled  
+1D82A 𝠪 Hand-Fist Index Middle Thumb Hooked  
+1D82B 𝠫 Hand-Fist Index Middle Thumb Hinged  
+1D82C 𝠬 Hand-Fist Thumb Between Index Middle Straight  
+1D82D 𝠭 Hand-Fist Index Middle Conjoined Thumb Side  
+1D82E 𝠮 Hand-Fist Index Middle Conjoined Thumb Side Conjoined  
+1D82F 𝠯 Hand-Fist Index Middle Conjoined Thumb Side Bent  
+1D830 𝠰 Hand-Fist Middle Thumb Hooked Index Up  
+1D831 𝠱 Hand-Fist Index Thumb Hooked Middle Up  
+1D832 𝠲 Hand-Fist Index Middle Conjoined Hinged Thumb Side  
+1D833 𝠳 Hand-Fist Index Middle Crossed Thumb Side  
+1D834 𝠴 Hand-Fist Index Middle Conjoined Thumb Forward  
+1D835 𝠵 Hand-Fist Index Middle Conjoined Cupped Thumb Forward  
+1D836 𝠶 Hand-Fist Middle Thumb Cupped Index Up  
+1D837 𝠷 Hand-Fist Index Thumb Cupped Middle Up  
+1D838 𝠸 Hand-Fist Middle Thumb Circled Index Up  
+1D839 𝠹 Hand-Fist Middle Thumb Circled Index Hinged  
+1D83A 𝠺 Hand-Fist Index Thumb Angled Out Middle Up  
+1D83B 𝠻 Hand-Fist Index Thumb Angled In Middle Up  
+1D83C 𝠼 Hand-Fist Index Thumb Circled Middle Up  
+1D83D 𝠽 Hand-Fist Index Middle Thumb Conjoined Hinged  
+1D83E 𝠾 Hand-Fist Index Middle Thumb Angled Out  
+1D83F 𝠿 Hand-Fist Index Middle Thumb Angled  
+1D840 𝡀 Hand-Fist Middle Thumb Angled Out Index Up  
+1D841 𝡁 Hand-Fist Middle Thumb Angled Out Index Crossed  
+1D842 𝡂 Hand-Fist Middle Thumb Angled Index Up  
+1D843 𝡃 Hand-Fist Index Thumb Hooked Middle Hinged
+1D844 𝡄 Hand-Flat Four Fingers  
+1D845 𝡅 Hand-Flat Four Fingers Bent  
+1D846 𝡆 Hand-Flat Four Fingers Hinged  
+1D847 𝡇 Hand-Flat Four Fingers Conjoined  
+1D848 𝡈 Hand-Flat Four Fingers Conjoined Split  
+1D849 𝡉 Hand-Claw Four Fingers Conjoined  
+1D84A 𝡊 Hand-Fist Four Fingers Conjoined Bent  
+1D84B 𝡋 Hand-Hinge Four Fingers Conjoined 
+1D84C 𝡌 Hand-Flat Five Fingers Spread  
+1D84D 𝡍 Hand-Flat Heel Five Fingers Spread  
+1D84E 𝡎 Hand-Flat Five Fingers Spread Four Bent  
+1D84F 𝡏 Hand-Flat Heel Five Fingers Spread Four Bent  
+1D850 𝡐 Hand-Flat Five Fingers Spread Bent  
+1D851 𝡑 Hand-Flat Heel Five Fingers Spread Bent  
+1D852 𝡒 Hand-Flat Five Fingers Spread Thumb Forward  
+1D853 𝡓 Hand-Cup Five Fingers Spread  
+1D854 𝡔 Hand-Cup Five Fingers Spread Open  
+1D855 𝡕 Hand-Hinge Five Fingers Spread Open  
+1D856 𝡖 Hand-Oval Five Fingers Spread  
+1D857 𝡗 Hand-Flat Five Fingers Spread Hinged  
+1D858 𝡘 Hand-Flat Five Fingers Spread Hinged Thumb Side  
+1D859 𝡙 Hand-Flat Five Fingers Spread Hinged No Thumb  
+1D85A 𝡚 Hand-Flat  
+1D85B 𝡛 Hand-Flat Between Palm Facings  
+1D85C 𝡜 Hand-Flat Heel  
+1D85D 𝡝 Hand-Flat Thumb Side  
+1D85E 𝡞 Hand-Flat Heel Thumb Side  
+1D85F 𝡟 Hand-Flat Thumb Bent  
+1D860 𝡠 Hand-Flat Thumb Forward  
+1D861 𝡡 Hand-Flat Split Index Thumb Side  
+1D862 𝡢 Hand-Flat Split Centre  
+1D863 𝡣 Hand-Flat Split Centre Thumb Side  
+1D864 𝡤 Hand-Flat Split Centre Thumb Side Bent  
+1D865 𝡥 Hand-Flat Split Little  
+1D866 𝡦 Hand-Claw  
+1D867 𝡧 Hand-Claw Thumb Side  
+1D868 𝡨 Hand-Claw No Thumb  
+1D869 𝡩 Hand-Claw Thumb Forward  
+1D86A 𝡪 Hand-Hook Curlicue  
+1D86B 𝡫 Hand-Hook  
+1D86C 𝡬 Hand-Cup Open  
+1D86D 𝡭 Hand-Cup  
+1D86E 𝡮 Hand-Cup Open Thumb Side  
+1D86F 𝡯 Hand-Cup Thumb Side  
+1D870 𝡰 Hand-Cup Open No Thumb  
+1D871 𝡱 Hand-Cup No Thumb  
+1D872 𝡲 Hand-Cup Open Thumb Forward  
+1D873 𝡳 Hand-Cup Thumb Forward  
+1D874 𝡴 Hand-Curlicue Open  
+1D875 𝡵 Hand-Curlicue  
+1D876 𝡶 Hand-Circle  
+1D877 𝡷 Hand-Oval  
+1D878 𝡸 Hand-Oval Thumb Side  
+1D879 𝡹 Hand-Oval No Thumb  
+1D87A 𝡺 Hand-Oval Thumb Forward  
+1D87B 𝡻 Hand-Hinge Open  
+1D87C 𝡼 Hand-Hinge Open Thumb Forward  
+1D87D 𝡽 Hand-Hinge  
+1D87E 𝡾 Hand-Hinge Small  
+1D87F 𝡿 Hand-Hinge Open Thumb Side  
+1D880 𝢀 Hand-Hinge Thumb Side  
+1D881 𝢁 Hand-Hinge Open No Thumb  
+1D882 𝢂 Hand-Hinge No Thumb  
+1D883 𝢃 Hand-Hinge Thumb Side Touching Index  
+1D884 𝢄 Hand-Hinge Thumb Between Middle Ring  
+1D885 𝢅 Hand-Angle 
+1D886 𝢆 Hand-Fist Index Middle Ring  
+1D887 𝢇 Hand-Circle Index Middle Ring  
+1D888 𝢈 Hand-Hinge Index Middle Ring  
+1D889 𝢉 Hand-Angle Index Middle Ring  
+1D88A 𝢊 Hand-Hinge Little  
+1D88B 𝢋 Hand-Fist Index Middle Ring Bent  
+1D88C 𝢌 Hand-Fist Index Middle Ring Conjoined  
+1D88D 𝢍 Hand-Hinge Index Middle Ring Conjoined  
+1D88E 𝢎 Hand-Fist Little Down  
+1D88F 𝢏 Hand-Fist Little Down Ripple Straight  
+1D890 𝢐 Hand-Fist Little Down Ripple Curved  
+1D891 𝢑 Hand-Fist Little Down Others Circled  
+1D892 𝢒 Hand-Fist Little Up  
+1D893 𝢓 Hand-Fist Thumb Under Little Up  
+1D894 𝢔 Hand-Circle Little Up  
+1D895 𝢕 Hand-Oval Little Up  
+1D896 𝢖 Hand-Angle Little Up  
+1D897 𝢗 Hand-Fist Little Raised Knuckle  
+1D898 𝢘 Hand-Fist Little Bent  
+1D899 𝢙 Hand-Fist Little Touches Thumb  
+1D89A 𝢚 Hand-Fist Little Thumb  
+1D89B 𝢛 Hand-Hinge Little Thumb  
+1D89C 𝢜 Hand-Fist Little Index Thumb  
+1D89D 𝢝 Hand-Hinge Little Index Thumb  
+1D89E 𝢞 Hand-Angle Little Index Thumb Index Thumb Out  
+1D89F 𝢟 Hand-Angle Little Index Thumb Index Thumb  
+1D8A0 𝢠 Hand-Fist Little Index  
+1D8A1 𝢡 Hand-Circle Little Index  
+1D8A2 𝢢 Hand-Hinge Little Index  
+1D8A3 𝢣 Hand-Angle Little Index 
+1D8A4 𝢤 Hand-Fist Index Middle Little  
+1D8A5 𝢥 Hand-Circle Index Middle Little  
+1D8A6 𝢦 Hand-Hinge Index Middle Little  
+1D8A7 𝢧 Hand-Hinge Ring  
+1D8A8 𝢨 Hand-Angle Index Middle Little  
+1D8A9 𝢩 Hand-Fist Index Middle Cross Little  
+1D8AA 𝢪 Hand-Circle Index Middle Cross Little  
+1D8AB 𝢫 Hand-Fist Ring Down  
+1D8AC 𝢬 Hand-Hinge Ring Down Index Thumb Hook Middle  
+1D8AD 𝢭 Hand-Angle Ring Down Middle Thumb Index Cross  
+1D8AE 𝢮 Hand-Fist Ring Up  
+1D8AF 𝢯 Hand-Fist Ring Raised Knuckle  
+1D8B0 𝢰 Hand-Fist Ring Little  
+1D8B1 𝢱 Hand-Circle Ring Little  
+1D8B2 𝢲 Hand-Oval Ring Little  
+1D8B3 𝢳 Hand-Angle Ring Little  
+1D8B4 𝢴 Hand-Fist Ring Middle  
+1D8B5 𝢵 Hand-Fist Ring Middle Conjoined  
+1D8B6 𝢶 Hand-Fist Ring Middle Raised Knuckles  
+1D8B7 𝢷 Hand-Fist Ring Index  
+1D8B8 𝢸 Hand-Fist Ring Thumb  
+1D8B9 𝢹 Hand-Hook Ring Thumb 
+1D8BA 𝢺 Hand-Fist Index Ring Little  
+1D8BB 𝢻 Hand-Circle Index Ring Little  
+1D8BC 𝢼 Hand-Curlicue Index Ring Little On  
+1D8BD 𝢽 Hand-Hook Index Ring Little Out  
+1D8BE 𝢾 Hand-Hook Index Ring Little In  
+1D8BF 𝢿 Hand-Hook Index Ring Little Under  
+1D8C0 𝣀 Hand-Cup Index Ring Little  
+1D8C1 𝣁 Hand-Hinge Index Ring Little  
+1D8C2 𝣂 Hand-Angle Index Ring Little Out  
+1D8C3 𝣃 Hand-Angle Index Ring Little  
+1D8C4 𝣄 Hand-Fist Middle Down  
+1D8C5 𝣅 Hand-Hinge Middle  
+1D8C6 𝣆 Hand-Fist Middle Up  
+1D8C7 𝣇 Hand-Circle Middle Up  
+1D8C8 𝣈 Hand-Fist Middle Raised Knuckle  
+1D8C9 𝣉 Hand-Fist Middle Up Thumb Side  
+1D8CA 𝣊 Hand-Hook Middle Thumb  
+1D8CB 𝣋 Hand-Fist Middle Thumb Little  
+1D8CC 𝣌 Hand-Fist Middle Little 
+1D8CD 𝣍 Hand-Fist Middle Ring Little  
+1D8CE 𝣎 Hand-Circle Middle Ring Little  
+1D8CF 𝣏 Hand-Curlicue Middle Ring Little On  
+1D8D0 𝣐 Hand-Cup Middle Ring Little  
+1D8D1 𝣑 Hand-Hinge Middle Ring Little  
+1D8D2 𝣒 Hand-Angle Middle Ring Little Out  
+1D8D3 𝣓 Hand-Angle Middle Ring Little In  
+1D8D4 𝣔 Hand-Angle Middle Ring Little  
+1D8D5 𝣕 Hand-Circle Middle Ring Little Bent  
+1D8D6 𝣖 Hand-Claw Middle Ring Little Conjoined  
+1D8D7 𝣗 Hand-Claw Middle Ring Little Conjoined Side  
+1D8D8 𝣘 Hand-Hook Middle Ring Little Conjoined Out  
+1D8D9 𝣙 Hand-Hook Middle Ring Little Conjoined In  
+1D8DA 𝣚 Hand-Hook Middle Ring Little Conjoined  
+1D8DB 𝣛 Hand-Hinge Index Hinged  
+1D8DC 𝣜 Hand-Fist Index Thumb Side  
+1D8DD 𝣝 Hand-Hinge Index Thumb Side  
+1D8DE 𝣞 Hand-Fist Index Thumb Side Thumb Diagonal  
+1D8DF 𝣟 Hand-Fist Index Thumb Side Thumb Conjoined  
+1D8E0 𝣠 Hand-Fist Index Thumb Side Thumb Bent  
+1D8E1 𝣡 Hand-Fist Index Thumb Side Index Bent  
+1D8E2 𝣢 Hand-Fist Index Thumb Side Both Bent  
+1D8E3 𝣣 Hand-Fist Index Thumb Side Index Hinge  
+1D8E4 𝣤 Hand-Fist Index Thumb Forward Index Straight  
+1D8E5 𝣥 Hand-Fist Index Thumb Forward Index Bent  
+1D8E6 𝣦 Hand-Fist Index Thumb Hook  
+1D8E7 𝣧 Hand-Fist Index Thumb Curlicue  
+1D8E8 𝣨 Hand-Fist Index Thumb Curve Thumb Inside  
+1D8E9 𝣩 Hand-Claw Index Thumb Curve Thumb Inside  
+1D8EA 𝣪 Hand-Fist Index Thumb Curve Thumb Under  
+1D8EB 𝣫 Hand-Fist Index Thumb Circle  
+1D8EC 𝣬 Hand-Cup Index Thumb  
+1D8ED 𝣭 Hand-Cup Index Thumb Open  
+1D8EE 𝣮 Hand-Hinge Index Thumb Open  
+1D8EF 𝣯 Hand-Hinge Index Thumb Large  
+1D8F0 𝣰 Hand-Hinge Index Thumb  
+1D8F1 𝣱 Hand-Hinge Index Thumb Small  
+1D8F2 𝣲 Hand-Angle Index Thumb Out  
+1D8F3 𝣳 Hand-Angle Index Thumb In  
+1D8F4 𝣴 Hand-Angle Index Thumb 
+1D8F5 𝣵 Hand-Fist Thumb  
+1D8F6 𝣶 Hand-Fist Thumb Heel  
+1D8F7 𝣷 Hand-Fist Thumb Side Diagonal  
+1D8F8 𝣸 Hand-Fist Thumb Side Conjoined  
+1D8F9 𝣹 Hand-Fist Thumb Side Bent  
+1D8FA 𝣺 Hand-Fist Thumb Forward  
+1D8FB 𝣻 Hand-Fist Thumb Between Index Middle  
+1D8FC 𝣼 Hand-Fist Thumb Between Middle Ring  
+1D8FD 𝣽 Hand-Fist Thumb Between Ring Little  
+1D8FE 𝣾 Hand-Fist Thumb Under Two Fingers  
+1D8FF 𝣿 Hand-Fist Thumb Over Two Fingers
+1D900 𝤀 Hand-Fist Thumb Under Three Fingers  
+1D901 𝤁 Hand-Fist Thumb Under Four Fingers  
+1D902 𝤂 Hand-Fist Thumb Over Four Raised Knuckles  
+1D903 𝤃 Hand-Fist  
+1D904 𝤄 Hand-Fist Heel  
+1D905 𝤅 Touch Single  
+1D906 𝤆 Touch Multiple  
+1D907 𝤇 Touch Between  
+1D908 𝤈 Grasp Single  
+1D909 𝤉 Grasp Multiple  
+1D90A 𝤊 Grasp Between  
+1D90B 𝤋 Strike Single  
+1D90C 𝤌 Strike Multiple  
+1D90D 𝤍 Strike Between  
+1D90E 𝤎 Brush Single  
+1D90F 𝤏 Brush Multiple  
+1D910 𝤐 Brush Between  
+1D911 𝤑 Rub Single  
+1D912 𝤒 Rub Multiple  
+1D913 𝤓 Rub Between  
+1D914 𝤔 Surface Symbols  
+1D915 𝤕 Surface Between 
+1D916 𝤖 Squeeze Large Single  
+1D917 𝤗 Squeeze Small Single  
+1D918 𝤘 Squeeze Large Multiple  
+1D919 𝤙 Squeeze Small Multiple  
+1D91A 𝤚 Squeeze Sequential  
+1D91B 𝤛 Flick Large Single  
+1D91C 𝤜 Flick Small Single  
+1D91D 𝤝 Flick Large Multiple  
+1D91E 𝤞 Flick Small Multiple  
+1D91F 𝤟 Flick Sequential  
+1D920 𝤠 Squeeze Flick Alternating  
+1D921 𝤡 Movement-Hinge Up Down Large  
+1D922 𝤢 Movement-Hinge Up Down Small  
+1D923 𝤣 Movement-Hinge Up Sequential  
+1D924 𝤤 Movement-Hinge Down Sequential  
+1D925 𝤥 Movement-Hinge Up Down Alternating Large  
+1D926 𝤦 Movement-Hinge Up Down Alternating Small  
+1D927 𝤧 Movement-Hinge Side to Side Scissors  
+1D928 𝤨 Movement-Wallplane Finger Contact  
+1D929 𝤩 Movement-Floorplane Finger Contact  
+1D92A 𝤪 Movement-Wallplane Single Straight Small  
+1D92B 𝤫 Movement-Wallplane Single Straight Medium  
+1D92C 𝤬 Movement-Wallplane Single Straight Large  
+1D92D 𝤭 Movement-Wallplane Single Straight Largest  
+1D92E 𝤮 Movement-Wallplane Single Wrist Flex  
+1D92F 𝤯 Movement-Wallplane Double Straight  
+1D930 𝤰 Movement-Wallplane Double Wrist Flex  
+1D931 𝤱 Movement-Wallplane Double Alternating  
+1D932 𝤲 Movement-Wallplane Double Alternating Wrist Flex  
+1D933 𝤳 Movement-Wallplane Cross  
+1D934 𝤴 Movement-Wallplane Triple Straight Movement  
+1D935 𝤵 Movement-Wallplane Triple Wrist Flex  
+1D936 𝤶 Movement-Wallplane Triple Alternating  
+1D937 𝤷 Movement-Wallplane Triple Alternating Wrist Flex  
+1D938 𝤸 Movement-Wallplane Bend Small  
+1D939 𝤹 Movement-Wallplane Bend Medium  
+1D93A 𝤺 Movement-Wallplane Bend Large  
+1D93B 𝤻 Movement-Wallplane Corner Small  
+1D93C 𝤼 Movement-Wallplane Corner Medium  
+1D93D 𝤽 Movement-Wallplane Corner Large  
+1D93E 𝤾 Movement-Wallplane Corner Rotation  
+1D93F 𝤿 Movement-Wallplane Check Small  
+1D940 𝥀 Movement-Wallplane Check Medium  
+1D941 𝥁 Movement-Wallplane Check Large  
+1D942 𝥂 Movement-Wallplane Box Small  
+1D943 𝥃 Movement-Wallplane Box Medium  
+1D944 𝥄 Movement-Wallplane Box Large  
+1D945 𝥅 Movement-Wallplane Zigzag Small  
+1D946 𝥆 Movement-Wallplane Zigzag Medium  
+1D947 𝥇 Movement-Wallplane Zigzag Large  
+1D948 𝥈 Movement-Wallplane Peaks Small  
+1D949 𝥉 Movement-Wallplane Peaks Medium  
+1D94A 𝥊 Movement-Wallplane Peaks Large  
+1D94B 𝥋 Travel-Wallplane Rotation-Wallplane Single  
+1D94C 𝥌 Travel-Wallplane Rotation-Wallplane Double  
+1D94D 𝥍 Travel-Wallplane Rotation-Wallplane Alternating  
+1D94E 𝥎 Travel-Wallplane Rotation-Floorplane Single  
+1D94F 𝥏 Travel-Wallplane Rotation-Floorplane Double  
+1D950 𝥐 Travel-Wallplane Rotation-Floorplane Alternating  
+1D951 𝥑 Travel-Wallplane Shaking  
+1D952 𝥒 Travel-Wallplane Arm Spiral Single  
+1D953 𝥓 Travel-Wallplane Arm Spiral Double  
+1D954 𝥔 Travel-Wallplane Arm Spiral Triple  
+1D955 𝥕 Movement-Diagonal Away Small  
+1D956 𝥖 Movement-Diagonal Away Medium  
+1D957 𝥗 Movement-Diagonal Away Large  
+1D958 𝥘 Movement-Diagonal Away Largest  
+1D959 𝥙 Movement-Diagonal Towards Small  
+1D95A 𝥚 Movement-Diagonal Towards Medium  
+1D95B 𝥛 Movement-Diagonal Towards Large  
+1D95C 𝥜 Movement-Diagonal Towards Largest  
+1D95D 𝥝 Movement-Diagonal Between Away Small  
+1D95E 𝥞 Movement-Diagonal Between Away Medium  
+1D95F 𝥟 Movement-Diagonal Between Away Large  
+1D960 𝥠 Movement-Diagonal Between Away Largest  
+1D961 𝥡 Movement-Diagonal Between Towards Small  
+1D962 𝥢 Movement-Diagonal Between Towards Medium  
+1D963 𝥣 Movement-Diagonal Between Towards Large  
+1D964 𝥤 Movement-Diagonal Between Towards Largest  
+1D965 𝥥 Movement-Floorplane Single Straight Small  
+1D966 𝥦 Movement-Floorplane Single Straight Medium  
+1D967 𝥧 Movement-Floorplane Single Straight Large  
+1D968 𝥨 Movement-Floorplane Single Straight Largest  
+1D969 𝥩 Movement-Floorplane Single Wrist Flex  
+1D96A 𝥪 Movement-Floorplane Double Straight  
+1D96B 𝥫 Movement-Floorplane Double Wrist Flex  
+1D96C 𝥬 Movement-Floorplane Double Alternating  
+1D96D 𝥭 Movement-Floorplane Double Alternating Wrist Flex  
+1D96E 𝥮 Movement-Floorplane Cross  
+1D96F 𝥯 Movement-Floorplane Triple Straight Movement  
+1D970 𝥰 Movement-Floorplane Triple Wrist Flex  
+1D971 𝥱 Movement-Floorplane Triple Alternating Movement  
+1D972 𝥲 Movement-Floorplane Triple Alternating Wrist Flex  
+1D973 𝥳 Movement-Floorplane Bend  
+1D974 𝥴 Movement-Floorplane Corner Small  
+1D975 𝥵 Movement-Floorplane Corner Medium  
+1D976 𝥶 Movement-Floorplane Corner Large  
+1D977 𝥷 Movement-Floorplane Check  
+1D978 𝥸 Movement-Floorplane Box Small  
+1D979 𝥹 Movement-Floorplane Box Medium  
+1D97A 𝥺 Movement-Floorplane Box Large  
+1D97B 𝥻 Movement-Floorplane Zigzag Small  
+1D97C 𝥼 Movement-Floorplane Zigzag Medium  
+1D97D 𝥽 Movement-Floorplane Zigzag Large  
+1D97E 𝥾 Movement-Floorplane Peaks Small  
+1D97F 𝥿 Movement-Floorplane Peaks Medium  
+1D980 𝦀 Movement-Floorplane Peaks Large  
+1D981 𝦁 Travel-Floorplane Rotation-Floorplane Single  
+1D982 𝦂 Travel-Floorplane Rotation-Floorplane Double  
+1D983 𝦃 Travel-Floorplane Rotation-Floorplane Alternating  
+1D984 𝦄 Travel-Floorplane Rotation-Wallplane Single  
+1D985 𝦅 Travel-Floorplane Rotation-Wallplane Double  
+1D986 𝦆 Travel-Floorplane Rotation-Wallplane Alternating  
+1D987 𝦇 Travel-Floorplane Shaking  
+1D988 𝦈 Movement-Wallplane Curve Quarter Small  
+1D989 𝦉 Movement-Wallplane Curve Quarter Medium  
+1D98A 𝦊 Movement-Wallplane Curve Quarter Large  
+1D98B 𝦋 Movement-Wallplane Curve Quarter Largest  
+1D98C 𝦌 Movement-Wallplane Curve Half-Circle Small  
+1D98D 𝦍 Movement-Wallplane Curve Half-Circle Medium  
+1D98E 𝦎 Movement-Wallplane Curve Half-Circle Large  
+1D98F 𝦏 Movement-Wallplane Curve Half-Circle Largest  
+1D990 𝦐 Movement-Wallplane Curve Three-Quarter Circle Small  
+1D991 𝦑 Movement-Wallplane Curve Three-Quarter Circle Medium  
+1D992 𝦒 Movement-Wallplane Hump Small  
+1D993 𝦓 Movement-Wallplane Hump Medium  
+1D994 𝦔 Movement-Wallplane Hump Large  
+1D995 𝦕 Movement-Wallplane Loop Small  
+1D996 𝦖 Movement-Wallplane Loop Medium  
+1D997 𝦗 Movement-Wallplane Loop Large  
+1D998 𝦘 Movement-Wallplane Loop Small Double  
+1D999 𝦙 Movement-Wallplane Wave Curve Double Small  
+1D99A 𝦚 Movement-Wallplane Wave Curve Double Medium  
+1D99B 𝦛 Movement-Wallplane Wave Curve Double Large  
+1D99C 𝦜 Movement-Wallplane Wave Curve Triple Small  
+1D99D 𝦝 Movement-Wallplane Wave Curve Triple Medium  
+1D99E 𝦞 Movement-Wallplane Wave Curve Triple Large  
+1D99F 𝦟 Movement-Wallplane Curve Then Straight  
+1D9A0 𝦠 Movement-Wallplane Curved Cross Small  
+1D9A1 𝦡 Movement-Wallplane Curved Cross Medium  
+1D9A2 𝦢 Rotation-Wallplane Single  
+1D9A3 𝦣 Rotation-Wallplane Double  
+1D9A4 𝦤 Rotation-Wallplane Alternate  
+1D9A5 𝦥 Movement-Wallplane Shaking  
+1D9A6 𝦦 Movement-Wallplane Curve Hitting Front Wall  
+1D9A7 𝦧 Movement-Wallplane Hump Hitting Front Wall  
+1D9A8 𝦨 Movement-Wallplane Loop Hitting Front Wall  
+1D9A9 𝦩 Movement-Wallplane Wave Hitting Front Wall  
+1D9AA 𝦪 Rotation-Wallplane Single Hitting Front Wall  
+1D9AB 𝦫 Rotation-Wallplane Double Hitting Front Wall  
+1D9AC 𝦬 Rotation-Wallplane Alternating Hitting Front Wall  
+1D9AD 𝦭 Movement-Wallplane Curve Hitting Chest  
+1D9AE 𝦮 Movement-Wallplane Hump Hitting Chest  
+1D9AF 𝦯 Movement-Wallplane Loop Hitting Chest  
+1D9B0 𝦰 Movement-Wallplane Wave Hitting Chest  
+1D9B1 𝦱 Rotation-Wallplane Single Hitting Chest  
+1D9B2 𝦲 Rotation-Wallplane Double Hitting Chest  
+1D9B3 𝦳 Rotation-Wallplane Alternating Hitting Chest  
+1D9B4 𝦴 Movement-Wallplane Wave Diagonal Path Small  
+1D9B5 𝦵 Movement-Wallplane Wave Diagonal Path Medium  
+1D9B6 𝦶 Movement-Wallplane Wave Diagonal Path Large  
+1D9B7 𝦷 Movement-Floorplane Curve Hitting Ceiling Small  
+1D9B8 𝦸 Movement-Floorplane Curve Hitting Ceiling Large  
+1D9B9 𝦹 Movement-Floorplane Hump Hitting Ceiling Small Double  
+1D9BA 𝦺 Movement-Floorplane Hump Hitting Ceiling Large Double  
+1D9BB 𝦻 Movement-Floorplane Hump Hitting Ceiling Small Triple  
+1D9BC 𝦼 Movement-Floorplane Hump Hitting Ceiling Large Triple  
+1D9BD 𝦽 Movement-Floorplane Loop Hitting Ceiling Small Single  
+1D9BE 𝦾 Movement-Floorplane Loop Hitting Ceiling Large Single  
+1D9BF 𝦿 Movement-Floorplane Loop Hitting Ceiling Small Double  
+1D9C0 𝧀 Movement-Floorplane Loop Hitting Ceiling Large Double  
+1D9C1 𝧁 Movement-Floorplane Wave Hitting Ceiling Small  
+1D9C2 𝧂 Movement-Floorplane Wave Hitting Ceiling Large  
+1D9C3 𝧃 Rotation-Floorplane Single Hitting Ceiling  
+1D9C4 𝧄 Rotation-Floorplane Double Hitting Ceiling  
+1D9C5 𝧅 Rotation-Floorplane Alternating Hitting Ceiling  
+1D9C6 𝧆 Movement-Floorplane Curve Hitting Floor Small  
+1D9C7 𝧇 Movement-Floorplane Curve Hitting Floor Large  
+1D9C8 𝧈 Movement-Floorplane Hump Hitting Floor Small Double  
+1D9C9 𝧉 Movement-Floorplane Hump Hitting Floor Large Double  
+1D9CA 𝧊 Movement-Floorplane Hump Hitting Floor Triple Small Triple  
+1D9CB 𝧋 Movement-Floorplane Hump Hitting Floor Triple Large Triple  
+1D9CC 𝧌 Movement-Floorplane Loop Hitting Floor Small Single  
+1D9CD 𝧍 Movement-Floorplane Loop Hitting Floor Large Single  
+1D9CE 𝧎 Movement-Floorplane Loop Hitting Floor Small Double  
+1D9CF 𝧏 Movement-Floorplane Loop Hitting Floor Large Double  
+1D9D0 𝧐 Movement-Floorplane Wave Hitting Floor Small  
+1D9D1 𝧑 Movement-Floorplane Wave Hitting Floor Large  
+1D9D2 𝧒 Rotation-Floorplane Single Hitting Floor  
+1D9D3 𝧓 Rotation-Floorplane Double Hitting Floor  
+1D9D4 𝧔 Rotation-Floorplane Alternating Hitting Floor  
+1D9D5 𝧕 Movement-Floorplane Curve Small  
+1D9D6 𝧖 Movement-Floorplane Curve Medium  
+1D9D7 𝧗 Movement-Floorplane Curve Large  
+1D9D8 𝧘 Movement-Floorplane Curve Largest  
+1D9D9 𝧙 Movement-Floorplane Curve Combined  
+1D9DA 𝧚 Movement-Floorplane Hump Small  
+1D9DB 𝧛 Movement-Floorplane Loop Small  
+1D9DC 𝧜 Movement-Floorplane Wave Snake  
+1D9DD 𝧝 Movement-Floorplane Wave Small  
+1D9DE 𝧞 Movement-Floorplane Wave Large  
+1D9DF 𝧟 Rotation-Floorplane Single  
+1D9E0 𝧠 Rotation-Floorplane Double  
+1D9E1 𝧡 Rotation-Floorplane Alternating  
+1D9E2 𝧢 Movement-Floorplane Shaking Parallel  
+1D9E3 𝧣 Movement-Wallplane Arm Circle Small Single  
+1D9E4 𝧤 Movement-Wallplane Arm Circle Medium Single  
+1D9E5 𝧥 Movement-Wallplane Arm Circle Small Double  
+1D9E6 𝧦 Movement-Wallplane Arm Circle Medium Double  
+1D9E7 𝧧 Movement-Floorplane Arm Circle Hitting Wall Small Single  
+1D9E8 𝧨 Movement-Floorplane Arm Circle Hitting Wall Medium Single  
+1D9E9 𝧩 Movement-Floorplane Arm Circle Hitting Wall Large Single  
+1D9EA 𝧪 Movement-Floorplane Arm Circle Hitting Wall Small Double  
+1D9EB 𝧫 Movement-Floorplane Arm Circle Hitting Wall Medium Double  
+1D9EC 𝧬 Movement-Floorplane Arm Circle Hitting Wall Large Double  
+1D9ED 𝧭 Movement-Wallplane Wrist Circle Front Single  
+1D9EE 𝧮 Movement-Wallplane Wrist Circle Front Double  
+1D9EF 𝧯 Movement-Floorplane Wrist Circle Hitting Wall Single  
+1D9F0 𝧰 Movement-Floorplane Wrist Circle Hitting Wall Double  
+1D9F1 𝧱 Movement-Wallplane Finger Circles Single  
+1D9F2 𝧲 Movement-Wallplane Finger Circles Double  
+1D9F3 𝧳 Movement-Floorplane Finger Circles Hitting Wall Single  
+1D9F4 𝧴 Movement-Floorplane Finger Circles Hitting Wall Double  
+1D9F5 𝧵 Dynamic Arrowhead Small  
+1D9F6 𝧶 Dynamic Arrowhead Large  
+1D9F7 𝧷 Dynamic Fast  
+1D9F8 𝧸 Dynamic Slow  
+1D9F9 𝧹 Dynamic Tense  
+1D9FA 𝧺 Dynamic Relaxed  
+1D9FB 𝧻 Dynamic Simultaneous  
+1D9FC 𝧼 Dynamic Simultaneous Alternating  
+1D9FD 𝧽 Dynamic Every Other Time  
+1D9FE 𝧾 Dynamic Gradual  
+1D9FF 𝧿 Head
+1DA00 𝨀  Head Rim  
+1DA01 𝨁  Head Movement-Wallplane Straight  
+1DA02 𝨂  Head Movement-Wallplane Tilt  
+1DA03 𝨃  Head Movement-Floorplane Straight  
+1DA04 𝨄  Head Movement-Wallplane Curve  
+1DA05 𝨅  Head Movement-Floorplane Curve  
+1DA06 𝨆  Head Movement Circle  
+1DA07 𝨇  Face Direction Position Nose Forward Tilting  
+1DA08 𝨈  Face Direction Position Nose Up Or Down  
+1DA09 𝨉  Face Direction Position Nose Up Or Down Tilting  
+1DA0A 𝨊  Eyebrows Straight Up  
+1DA0B 𝨋  Eyebrows Straight Neutral  
+1DA0C 𝨌  Eyebrows Straight Down  
+1DA0D 𝨍  Dreamy Eyebrows Neutral Down  
+1DA0E 𝨎  Dreamy Eyebrows Down Neutral  
+1DA0F 𝨏  Dreamy Eyebrows Up Neutral  
+1DA10 𝨐  Dreamy Eyebrows Neutral Up  
+1DA11 𝨑  Forehead Neutral  
+1DA12 𝨒  Forehead Contact  
+1DA13 𝨓  Forehead Wrinkled  
+1DA14 𝨔  Eyes Open  
+1DA15 𝨕  Eyes Squeezed  
+1DA16 𝨖  Eyes Closed  
+1DA17 𝨗  Eye Blink Single  
+1DA18 𝨘  Eye Blink Multiple  
+1DA19 𝨙  Eyes Half Open  
+1DA1A 𝨚  Eyes Wide Open  
+1DA1B 𝨛  Eyes Half Closed  
+1DA1C 𝨜  Eyes Widening Movement  
+1DA1D 𝨝  Eye Wink  
+1DA1E 𝨞  Eyelashes Up  
+1DA1F 𝨟  Eyelashes Down  
+1DA20 𝨠  Eyelashes Fluttering  
+1DA21 𝨡  Eyegaze-Wallplane Straight  
+1DA22 𝨢  Eyegaze-Wallplane Straight Double  
+1DA23 𝨣  Eyegaze-Wallplane Straight Alternating  
+1DA24 𝨤  Eyegaze-Floorplane Straight  
+1DA25 𝨥  Eyegaze-Floorplane Straight Double  
+1DA26 𝨦  Eyegaze-Floorplane Straight Alternating  
+1DA27 𝨧  Eyegaze-Wallplane Curved  
+1DA28 𝨨  Eyegaze-Floorplane Curved  
+1DA29 𝨩  Eyegaze-Wallplane Circling  
+1DA2A 𝨪  Cheeks Puffed  
+1DA2B 𝨫  Cheeks Neutral  
+1DA2C 𝨬  Cheeks Sucked  
+1DA2D 𝨭  Tense Cheeks High  
+1DA2E 𝨮  Tense Cheeks Middle  
+1DA2F 𝨯  Tense Cheeks Low  
+1DA30 𝨰  Ears  
+1DA31 𝨱  Nose Neutral  
+1DA32 𝨲  Nose Contact  
+1DA33 𝨳  Nose Wrinkles  
+1DA34 𝨴  Nose Wiggles  
+1DA35 𝨵  Air Blowing Out  
+1DA36 𝨶  Air Sucking In  
+1DA37 𝨷 Air Blow Small Rotations  
+1DA38 𝨸 Air Suck Small Rotations  
+1DA39 𝨹 Breath Inhale  
+1DA3A 𝨺 Breath Exhale  
+1DA3B 𝨻  Mouth Closed Neutral  
+1DA3C 𝨼  Mouth Closed Forward  
+1DA3D 𝨽  Mouth Closed Contact  
+1DA3E 𝨾  Mouth Smile  
+1DA3F 𝨿  Mouth Smile Wrinkled  
+1DA40 𝩀  Mouth Smile Open  
+1DA41 𝩁  Mouth Frown  
+1DA42 𝩂  Mouth Frown Wrinkled  
+1DA43 𝩃  Mouth Frown Open  
+1DA44 𝩄  Mouth Open Circle  
+1DA45 𝩅  Mouth Open Forward  
+1DA46 𝩆  Mouth Open Wrinkled  
+1DA47 𝩇  Mouth Open Oval  
+1DA48 𝩈  Mouth Open Oval Wrinkled  
+1DA49 𝩉  Mouth Open Oval Yawn  
+1DA4A 𝩊  Mouth Open Rectangle  
+1DA4B 𝩋  Mouth Open Rectangle Wrinkled  
+1DA4C 𝩌  Mouth Open Rectangle Yawn  
+1DA4D 𝩍  Mouth Kiss  
+1DA4E 𝩎  Mouth Kiss Forward  
+1DA4F 𝩏  Mouth Kiss Wrinkled  
+1DA50 𝩐  Mouth Tense  
+1DA51 𝩑  Mouth Tense Forward  
+1DA52 𝩒  Mouth Tense Sucked  
+1DA53 𝩓  Lips Pressed Together  
+1DA54 𝩔  Lip Lower Over Upper  
+1DA55 𝩕  Lip Upper Over Lower  
+1DA56 𝩖  Mouth Corners  
+1DA57 𝩗  Mouth Wrinkles Single  
+1DA58 𝩘  Mouth Wrinkles Double  
+1DA59 𝩙  Tongue Sticking Out Far  
+1DA5A 𝩚  Tongue Licking Lips  
+1DA5B 𝩛  Tongue Tip Between Lips  
+1DA5C 𝩜  Tongue Tip Touching Inside Mouth  
+1DA5D 𝩝  Tongue Inside Mouth Relaxed  
+1DA5E 𝩞  Tongue Moves Against Cheek  
+1DA5F 𝩟  Tongue Centre Sticking Out  
+1DA60 𝩠  Tongue Centre Inside Mouth  
+1DA61 𝩡  Teeth  
+1DA62 𝩢  Teeth Movement  
+1DA63 𝩣  Teeth On Tongue  
+1DA64 𝩤  Teeth On Tongue Movement  
+1DA65 𝩥  Teeth On Lips  
+1DA66 𝩦  Teeth On Lips Movement  
+1DA67 𝩧  Teeth Bite Lips  
+1DA68 𝩨  Movement-Wallplane Jaw  
+1DA69 𝩩  Movement-Floorplane Jaw  
+1DA6A 𝩪  Neck  
+1DA6B 𝩫  Hair  
+1DA6C 𝩬  Excitement
+ 

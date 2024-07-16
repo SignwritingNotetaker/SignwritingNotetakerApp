@@ -1,0 +1,110 @@
+<Root>:
+    orientation: 'vertical'
+    canvas.before:
+        Color:
+            rgba: 0.85, 0.85, 0.85, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    CoreSignKeyboard:
+        id: core_sign_keyboard
+        size_hint_y: 0.5
+        size_hint_x: 1
+    SignEditor:
+        id: sign_editor
+        size_hint_y: 0.5
+        size_hint_x: 1
+
+<SignEditor>:
+    canvas.before:
+        Color:
+            rgba: 0.5, 0.5, 0.5, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    size_hint_y: 1
+    size_hint_x: 1
+    orientation: "vertical"
+    padding: [20, 20, 20, 20]
+    spacing: 10
+    BoxLayout:
+        orientation: "horizontal"
+        size_hint_y: 0.1
+        Button:
+            text: "Clear"
+            on_press: root.clear()
+        Button:
+            text: "Export"
+            on_press: root.export()
+    BoxLayout:
+        size_hint_y: 0.9
+        size_hint_x: 1
+        canvas.before:
+            Color:
+                rgba: 1,1,1, 1
+            RoundedRectangle:
+                radius: [(20, 20), (20, 20), (20, 20), (20, 20)]
+                pos: self.pos
+                size: self.size
+            Color:
+                rgba: 0.5, 0.5, 0.5, 1
+            Line:
+                width: 3
+                dash_length: 10
+                dash_offset: 8
+                points: (self.center_x, self.y, self.center_x, self.top)
+            Line:
+                width: 3
+                dash_length: 10
+                dash_offset: 8
+                points: (self.x, self.center_y, self.right, self.center_y)
+        Painter:
+            id: painter
+
+<PoseEditor>:
+    canvas.before:
+        Color:
+            rgba: 0.5, 0.5, 0.5, 1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+    size_hint_y: 1
+    size_hint_x: 1
+    orientation: "vertical"
+    padding: [20, 20, 20, 20]
+    spacing: 10
+    BoxLayout:
+        orientation: "horizontal"
+        size_hint_y: 0.1
+        Button:
+            text: "Clear"
+            on_press: root.clear()
+        Button:
+            text: "Export"
+            on_press: root.export()
+    BoxLayout:
+        size_hint_y: 0.9
+        size_hint_x: 1
+        canvas.before:
+            Color:
+                rgba: 1,1,1, 1
+            RoundedRectangle:
+                radius: [(20, 20), (20, 20), (20, 20), (20, 20)]
+                pos: self.pos
+                size: self.size
+            Color:
+                rgba: 0.5, 0.5, 0.5, 1
+            Line:
+                width: 3
+                dash_length: 10
+                dash_offset: 8
+                points: (self.center_x, self.y, self.center_x, self.top)
+            Line:
+                width: 3
+                dash_length: 10
+                dash_offset: 8
+                points: (self.x, self.center_y, self.right, self.center_y)
+        Painter:
+            id: painter
+
+
