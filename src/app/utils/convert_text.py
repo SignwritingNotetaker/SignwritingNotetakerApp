@@ -5,25 +5,8 @@ You should have received a copy of the GNU General Public License along with Sig
 # based on https://github.com/sutton-signwriting/core/blob/master/src/convert/index.js
 
 import re
-from convert_sign import *
-
-RE_FRU = "(?:\U0001D9FF?[\U0001D800-\U0001D9FE\U0001DA00-\U0001DA8B]?[\U0001DA9B-\U0001DA9F]?[\U0001DAA1-\U0001DAAF]?)"
-RE_SWU_SYM = "[\U0001D800-\U0004F428]"
-RE_SWU_COORD = "[\U0001D80C-\U0001D9FF]"
-RE_SWU_SORT = "\U0001D800"
-RE_SWU_BOX = "[\U0001D801-\U0001D804]"
-RE_FSW_SYM = 'S[123][0-9a-f]{2}[0-5][0-9a-f]'
-RE_FSW_COORD = '[0-9]{3}x[0-9]{3}'
-RE_FSW_SORT = "A"
-RE_FSW_BOX = '[BLMR]'
-RE_FSW_BOX_SPATIAL = RE_FSW_BOX+RE_FSW_COORD
-RE_FSW_PREFIX = '(?:{}(?:{})+)'.format(RE_FSW_SORT, RE_FSW_SYM)
-RE_FSW_SPATIAL = RE_FSW_SYM+RE_FSW_COORD
-RE_FSW_SIGNBOX = '{}{}(?:{})*'.format(RE_FSW_BOX, RE_FSW_COORD, RE_FSW_SPATIAL)
-RE_UNI = "((?:\uD836[\uDC00-\uDE8B])(?:\uD836[\uDE9B-\uDE9F])(?:\uD836[\uDEA1-\uDEAF]))?"
-
-SWU_TO_MARKERS = { '\U0001D800': 'A', '\U0001D801': 'B', '\U0001D802': 'L', '\U0001D803': 'M', '\U0001D804': 'R' }
-MARKERS_TO_SWU = { 'A':'\U0001D800', 'B':'\U0001D801', 'L':'\U0001D802', 'M':'\U0001D803', 'R':'\U0001D804' }
+from .convert_sign import *
+from .re_expr import SWU_TO_MARKERS, MARKERS_TO_SWU, RE_SWU_SYM, RE_SWU_COORD, RE_FSW_PREFIX, RE_SWU_SORT, RE_FSW_BOX_SPATIAL, RE_FSW_SPATIAL
 
 def swu2mark(swu_mark:str) -> str:
     return SWU_TO_MARKERS[swu_mark]

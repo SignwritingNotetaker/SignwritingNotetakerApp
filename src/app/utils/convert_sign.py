@@ -11,13 +11,7 @@ You should have received a copy of the GNU General Public License along with Sig
 # the main difference is that one sign with its filling and rotation, and head base character, is 1 character in fsw and swu while it is from 1 to 4 characters in uni15.1, let's shorten it to Filled Rotated Unicode, FRU
 # the filling and the rotation correspond to the 2 last digit of the FSW code
 
-import re
-FSW_SIGN_CATEGORY_START = 0x100
-SWU_SIGN_START = 0x40001
-FRU_SIGN_START = 0x1D800
-FRU_FILL_START = 0x1DA9A
-FRU_ROT_START = 0x1DAA0
-FRU_HEAD_BASE = 0x1D9FF
+from .re_expr import FSW_SIGN_CATEGORY_START, SWU_SIGN_START, FRU_SIGN_START, FRU_FILL_START, FRU_ROT_START, FRU_HEAD_BASE
 
 def uni_to_hex(uni:str):
     res = ""

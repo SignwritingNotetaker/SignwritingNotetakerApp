@@ -18,6 +18,7 @@ from kivy.properties import StringProperty, ObjectProperty
 import json
 from kivy.core.text import LabelBase
 
+
 class SignKey(Button):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
@@ -32,8 +33,12 @@ class SignKey(Button):
         # This method will be called when the event is dispatched
         pass
 
-class TextInput(Label):
-    pass
+class CurrentSignInput(Label):
+    def __init__(self, **kwargs):
+        super().__init__(**kwargs)
+        self.fsw = ""
+    
+    
 
 class Suggetion(Button):
     pass
