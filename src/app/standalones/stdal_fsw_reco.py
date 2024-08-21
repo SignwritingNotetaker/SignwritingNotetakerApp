@@ -80,6 +80,6 @@ if __name__ == "__main__":
 
     LabelBase.register(name='SuttonSW', 
                    fn_regular='/Users/morganemahaud/Projects/Spark/SignwritingNotetakerApp/src/app/assets/fonts/SuttonSignWritingOneD.ttf')
-    app = StandaloneFormalSignWritingShow()
+    app = StandaloneFormalSignWritingReco()
     # app.init_text(SHARK)
     app.run()

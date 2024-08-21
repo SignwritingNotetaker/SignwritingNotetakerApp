@@ -12,7 +12,8 @@ from kivy.uix.button import Button
 from kivy.core.text import LabelBase
 from kivy.config import Config
 from kivy.core.window import Window
-from app.utils.convert_text import RE_FSW_SPATIAL, RE_FSW_BOX_SPATIAL, RE_FSW_SYM, fsw2coord
+from app.utils.convert_text import fsw2coord
+from app.utils.re_expr import RE_FSW_SPATIAL, RE_FSW_SYM
 from kivy.graphics import Color
 import re
 from app.utils.convert_sign import sign_fsw_to_fru, sign_fsw_to_swu

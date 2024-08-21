@@ -1,0 +1,20 @@
+'''This file is part of Signwriting Notetaker.
+Signwriting Notetaker is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+Signwriting Notetaker is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+You should have received a copy of the GNU General Public License along with Signwriting Notetaker. If not, see <https://www.gnu.org/licenses/>.'''
+
+All recommendations start with a gloss
+Glosses are files containing one signbox in fsw per lign, for example:
+"M518x589S22a15494x524S20e00477x520S14c18489x543S30003482x483S20f00460x549S1f548459x511S2b213450x566
+AS15d41S15d0aS20700S26f03M524x536S15d0a475x517S15d41501x496S20700484x509S26f03493x463
+M531x559S34000482x483S30a00482x483S20320496x533S27106516x519"
+When the gloss is added in memory, each lign is assigned an int id
+When an index is created, the index reference to the int id
+
+Recommendation by FSW string
+split string into a regex list
+
+Recommendation by FSW regexes list
+A set of 
+
+Recommendation by image
